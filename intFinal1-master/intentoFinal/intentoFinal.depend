@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1511999575 source:d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511999575 d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\arraylist.h
+
+1512002825 source:d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Alquiler.h"
+
+1512002799 d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\alquiler.h
+	"ArrayList.h"
+
+1512003259 source:d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\controlador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"eCliente.h"
+	"alquiler.h"
+	"Vista.h"
+	"DataManager.h"
+
+1512003459 d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\ecliente.h
+	"ArrayList.h"
+
+1512002974 d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\vista.h
+
+1511999320 d:\29-11-2017 programacion aravena\intentofinal1\intentofinal\datamanager.h
+
+1512004650 source:/home/turko/Downloads/intFinal1-master/intentoFinal/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512004650 /home/turko/Downloads/intFinal1-master/intentoFinal/ArrayList.h
+
